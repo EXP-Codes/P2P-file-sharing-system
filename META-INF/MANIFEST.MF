@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: MainClass.FileSharingSystemWithP2P
+Class-Path: ./lib/bcprov-jdk14.jar ./lib/javax.servlet.jar ./lib/jxta.jar ./lib/org.mortbay.jetty.jar
